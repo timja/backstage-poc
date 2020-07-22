@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: HelloWorld
+  description: "Hello World Demo app"
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "timja"
